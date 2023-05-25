@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Wed May 24 14:31:13 2023
+Dn4000 Calculator Example 
 
-@author: georgeridgeway
+Author: George Ridgeway <george.ridgeway@smu.ca>
 """
 
 from astroML.datasets import fetch_sdss_spectrum
