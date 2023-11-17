@@ -1,7 +1,7 @@
 """
 Dn4000 Calculator
 
-Author: George Ridgeway <george.ridgeway@smu.ca>
+Author: George Ridgeway <george_ridgeway@outlook.com>
 """
 
 import matplotlib.pyplot as plt
